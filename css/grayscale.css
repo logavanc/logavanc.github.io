@@ -320,31 +320,31 @@ a:focus {
 
 .btn-google:hover,
 .btn-google:focus {
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     outline: 0;
     color: #000;
-    background-color: #d50f25;
+    background-color: #ee9fa7;
 }
 
 .btn-git:hover,
 .btn-git:focus {
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     outline: 0;
     color: #000;
-    background-color: #ac5c51;
+    background-color: #a7ee9f;
 }
 
 .btn-twitter:hover,
 .btn-twitter:focus {
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     outline: 0;
     color: #000;
-    background-color: #55acee;
+    background-color: #9fa7ee;
 }
 
 .copyright {
-    color: black;
-    opacity: .8;
+    color: white;
+    opacity: .5;
 }
 
 ul.banner-social-buttons {
